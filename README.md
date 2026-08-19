@@ -33,16 +33,17 @@ For example:
 
 Install the required Python library with:
 
-```bash
+bash
 pip install -r requirements.txt
-```
+
 
 ## Usage
 
 Run the Python program with:
 
-```bash
+bash
 python sentiment_classifier.py
+
 
 The program analyzes example sentences and displays their sentiment.
 
