@@ -33,7 +33,7 @@ For example:
 
 Install the required Python library with:
 
-bash
+```bash
 pip install -r requirements.txt
 
 
