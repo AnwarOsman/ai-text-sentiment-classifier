@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 Run the Python program with:
 
-bash
+
 python sentiment_classifier.py
 
 
