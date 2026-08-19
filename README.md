@@ -2,6 +2,9 @@
 
 A beginner-friendly AI project that analyzes text and classifies its sentiment as Positive, Negative, or Neutral.
 
+## Summary
+
+This project is a beginner-friendly AI text sentiment classifier built with Python and TextBlob. It analyzes English text and classifies the sentiment as Positive, Negative, or Neutral.
 ## Project Overview
 
 This project uses Python and TextBlob to analyze the sentiment of English text.
